@@ -2,11 +2,11 @@
 #### by Vedavyas Kamath  <br><br>
 
 
-## Description
+## Description:
 Used Python to explore and investigate data related to movies from TMDb (The Movie Database). After exploring the data I have come up with some interesting insights about the data in this project.
 
 
-## File used
+## File used:
 Used the file `tmdb-movies.csv` <br>
 Please find the file available for download
 [here](https://drive.google.com/file/d/1355R1ZQuB253hs_YbZo-okYinx-JkiRR/view?usp=sharing)
